@@ -53,10 +53,10 @@ I also worked as a Research Analyst at the University of British Columbia, devel
 ###  Education
 
 **MSc Data Science** - University of Surrey (with Professional Postgraduate Placement Year), UK  
-2026–2028
+2026-2028
 
 **MSc Economics** - Lahore School of Economics, Pakistan  
-2025–2026
+2024-2026
 
 **BSc Economics** - Institute of Business Administration, Pakistan  
-2020–2024
+2020-2024
